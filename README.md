@@ -11,3 +11,4 @@
 - [Chapter 7](./docs/Chapter7.md)
 - [Chapter 8](./docs/Chapter8.md)
 - [Chapter 9](./docs/Chapter9.md)
+- [Chapter 10](./docs/Chapter10.md)
